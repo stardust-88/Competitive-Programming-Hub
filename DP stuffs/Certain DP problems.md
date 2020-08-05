@@ -9,4 +9,5 @@
 3. Longest increasing subsequence(LIS)<br>
 <a href="https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/">gfg-LIS</a><br>
 
-
+4. Longest alternating subsequence(LAS)<br>
+<a href="https://www.geeksforgeeks.org/longest-alternating-subsequence/">gfg-LAS</a><br> 
