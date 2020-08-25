@@ -17,3 +17,5 @@
 <a href="https://www.geeksforgeeks.org/minimum-number-of-increasing-subsequences/">gfg</a><br>
 Minimum number of increasing subsequences equals length of the longest decreasing subsequence, and minimum number of decreasing subsequences equals length of longest non-decreasing subsequnce.
 
+7. First strictly smaller element in a sorted array:<br>
+<a href="https://www.geeksforgeeks.org/first-strictly-smaller-element-in-a-sorted-array-in-java/">gfg</a>
