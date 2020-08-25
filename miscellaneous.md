@@ -9,3 +9,7 @@
 
 4. Window Sliding Technique:<br>
 <a href="https://www.geeksforgeeks.org/window-sliding-technique/">gfg</a>
+
+5. Length of the longest substring without repeating characters:<br>
+<a href="https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/">gfg</a>
+
