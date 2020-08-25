@@ -13,3 +13,7 @@
 5. Length of the longest substring without repeating characters:<br>
 <a href="https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/">gfg</a>
 
+6. Minimum number of increasing subsequences:<br>
+<a href="https://www.geeksforgeeks.org/minimum-number-of-increasing-subsequences/">gfg</a>
+Minimum number of increasing subsequences equals length of the longest decreasing subsequence, and minimum number of decreasing subsequences equals length of longest non-decreasing subsequnce.
+
