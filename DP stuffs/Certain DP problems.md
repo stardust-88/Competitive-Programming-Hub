@@ -10,8 +10,8 @@
 <a href="https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/">gfg-LIS</a><br>
 
 4. Longest Increasing Subsequence in (N log N):<br>
-a) <a href="https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/">gfg</a>
-b) <a href="https://www.youtube.com/watch?v=TocJOW6vx_I">youtube</a>
+a) <a href="https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/">gfg</a><br>
+b) <a href="https://www.youtube.com/watch?v=TocJOW6vx_I">youtube</a><br>
 c) <a href="https://www.youtube.com/watch?v=nf3YG4CnTbg">youtube</a>
 
 5. Longest alternating subsequence(LAS)<br>
