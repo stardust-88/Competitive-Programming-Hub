@@ -23,3 +23,6 @@ b)<a href="https://www.youtube.com/watch?v=BT_ACNC47Os&t=1253s">youtube</a>
 
 7. Maximum size subset with given sum:<br>
 <a href="https://www.geeksforgeeks.org/maximum-size-subset-given-sum/">gfg</a>
+
+8. Size of the smallest subset with maximum Bitwise OR:<br>
+<a href="https://www.geeksforgeeks.org/size-of-the-smallest-subset-with-maximum-bitwise-or/">gfg</a>
