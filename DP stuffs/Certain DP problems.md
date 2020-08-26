@@ -18,7 +18,8 @@ c) <a href="https://www.youtube.com/watch?v=nf3YG4CnTbg">youtube</a>
 <a href="https://www.geeksforgeeks.org/longest-alternating-subsequence/">gfg-LAS</a><br>
 
 6. Subset Sum Problem:<br>
-<a href="https://www.geeksforgeeks.org/subset-sum-problem-dp-25/">gfg</a>
+a)<a href="https://www.geeksforgeeks.org/subset-sum-problem-dp-25/">gfg</a><br>
+b)<a href="https://www.youtube.com/watch?v=BT_ACNC47Os&t=1253s">youtube</a>
 
 7. Maximum size subset with given sum:<br>
 <a href="https://www.geeksforgeeks.org/maximum-size-subset-given-sum/">gfg</a>
