@@ -19,3 +19,6 @@ Minimum number of increasing subsequences equals length of the longest decreasin
 
 7. First strictly smaller element in a sorted array:<br>
 <a href="https://www.geeksforgeeks.org/first-strictly-smaller-element-in-a-sorted-array-in-java/">gfg</a>
+
+8. Maximum subset with bitwise OR equal to k:<br>
+<a href="https://www.geeksforgeeks.org/maximum-subset-bitwise-equal-k/?ref=rp">gfg</a>
