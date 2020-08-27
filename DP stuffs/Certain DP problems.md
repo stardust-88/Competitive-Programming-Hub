@@ -26,3 +26,7 @@ b)<a href="https://www.youtube.com/watch?v=BT_ACNC47Os&t=1253s">youtube</a>
 
 8. Size of the smallest subset with maximum Bitwise OR:<br>
 <a href="https://www.geeksforgeeks.org/size-of-the-smallest-subset-with-maximum-bitwise-or/">gfg</a>
+
+9. Edit distance:<br>
+a) <a href="https://www.youtube.com/watch?v=We3YDTzNXEk">youtube</a>
+b) <a href="https://www.geeksforgeeks.org/edit-distance-dp-5/">gfg</a>
