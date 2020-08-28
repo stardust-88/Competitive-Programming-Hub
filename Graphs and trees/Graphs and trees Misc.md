@@ -11,3 +11,7 @@ Pre and Post numbers are widely used in graph algorithms. For example, they can 
 4. Total number of nodes in a subtree of a vertex:<br>
 a) <a href="https://www.geeksforgeeks.org/calculate-number-nodes-subtrees-using-dfs/">gfg</a><br>
 b) <a href="https://www.youtube.com/watch?v=rFVKXZZMH-U">youtube</a>
+
+5. Diameter of the tree:<br>
+a) <a href="https://www.youtube.com/watch?v=FQLPNQppBNs">gfg</a><br>
+b) <a href="https://www.geeksforgeeks.org/diameter-tree-using-dfs/">youtube</a>
