@@ -21,3 +21,6 @@ b) <a href="https://www.geeksforgeeks.org/diameter-tree-using-dfs/">youtube</a>
 
 7. Find farthest node from each node in Tree:<br>
 <a href="https://www.geeksforgeeks.org/find-farthest-node-from-each-node-in-tree/">gfg</a>
+
+8. Sum of distances of all nodes from a node in a tree:<br>
+<a href="https://leetcode.com/problems/sum-of-distances-in-tree/solution/">leetcode</a>
