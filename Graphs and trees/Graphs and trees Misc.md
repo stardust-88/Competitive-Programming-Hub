@@ -15,3 +15,9 @@ b) <a href="https://www.youtube.com/watch?v=rFVKXZZMH-U">youtube</a>
 5. Diameter of the tree:<br>
 a) <a href="https://www.youtube.com/watch?v=FQLPNQppBNs">gfg</a><br>
 b) <a href="https://www.geeksforgeeks.org/diameter-tree-using-dfs/">youtube</a>
+
+6. Single source shortest path on tree using dfs:<br>
+<a href="https://www.youtube.com/watch?v=CCrwMjQiZHg&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh&index=6">youtube</a>
+
+7. Find farthest node from each node in Tree:<br>
+<a href="https://www.geeksforgeeks.org/find-farthest-node-from-each-node-in-tree/">gfg</a>
